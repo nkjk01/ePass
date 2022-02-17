@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485974188082",
+    "project_id": "epass-be6bb",
+    "storage_bucket": "epass-be6bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485974188082:android:775efa41ede4a640b7dc2b",
+        "android_client_info": {
+          "package_name": "com.itcube.epass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485974188082-0q6javlucsheajon54nhm4ob5pa3ps3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY15G3EQOayBXi0S4e2Ddsx5njDzjIFFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485974188082-0q6javlucsheajon54nhm4ob5pa3ps3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
